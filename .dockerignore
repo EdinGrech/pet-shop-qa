@@ -1,0 +1,4 @@
+*
+!scripts/
+!scripts/*.py
+!scripts/requirements*.txt
